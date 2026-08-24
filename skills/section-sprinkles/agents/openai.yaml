@@ -1,0 +1,4 @@
+interface:
+  display_name: "Section Sprinkles"
+  short_description: "Browse playful Chinese web-section design references"
+  default_prompt: "Use $section-sprinkles to find a fitting reference and design an original Chinese web section."
