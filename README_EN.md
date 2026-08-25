@@ -55,3 +55,7 @@ After installation, use natural language:
 <img src="demo/b2b-metrics/preview.webp" width="100%" alt="Six B2B metrics-section candidates">
 
 A separate [working responsive frontend demo](demo/travel-search/) is also available.
+
+## License
+
+Released under the [MIT License](LICENSE).

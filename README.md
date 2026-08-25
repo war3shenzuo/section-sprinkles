@@ -55,3 +55,7 @@ python3 scripts/query-gallery.py \
 <img src="demo/b2b-metrics/preview.webp" width="100%" alt="6 个 B2B 数据成果区块候选">
 
 另外提供一个 [可运行的响应式前端实现 Demo](demo/travel-search/)。
+
+## 开源协议
+
+本项目采用 [MIT License](LICENSE)。
